@@ -99,7 +99,10 @@ npm install --save devicons-react
 yarn add devicons-react
 
 #pnpm
-pnpm add devicons-react`}
+pnpm add devicons-react
+
+#bun
+bun add devicons-react`}
             </Highlight>
           </HeaderCard>
 

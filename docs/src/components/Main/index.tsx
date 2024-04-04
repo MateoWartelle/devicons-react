@@ -64,7 +64,10 @@ npm install --save devicons-react@latest
 yarn add devicons-react@latest
 
 #pnpm
-pnpm add devicons-react@latest`}
+pnpm add devicons-react@latest
+
+#bun
+bun add devicons-react@latest`}
             </Highlight>
           </MainCard>
         ) : (
@@ -82,6 +85,9 @@ yarn add devicons-react@beta
 #pnpm
 pnpm add devicons-react@beta
 
+#bun
+bun add devicons-react@beta
+
 #OR TO INSTALL TWO VERSIONS @LATEST AND @BETA
 
 #npm
@@ -91,7 +97,10 @@ npm install --save @beta/devicons-react@npm:devicons-react@beta
 yarn add @beta/devicons-react@npm:devicons-react@beta
 
 #pnpm
-pnpm add @beta/devicons-react@npm:devicons-react@beta`}
+pnpm add @beta/devicons-react@npm:devicons-react@beta
+
+#bun
+bun add @beta/devicons-react@npm:devicons-react@beta`}
             </Highlight>
           </MainCard>
         )}

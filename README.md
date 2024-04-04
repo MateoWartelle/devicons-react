@@ -47,6 +47,9 @@ yarn add devicons-react@latest
 
 #pnpm
 pnpm add devicons-react@latest
+
+#bun 
+bun add devicons-react@latest
 ```
 
 ### Beta
@@ -60,6 +63,9 @@ yarn add devicons-react@beta
 
 #pnpm
 pnpm add devicons-react@beta
+
+#bun
+bun add devicons-react@beta
 ```
 
 <h3 id="default">Icon Behavior / props</h3>
